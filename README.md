@@ -1,5 +1,5 @@
 안녕하세요👋  
-[blog](https://staticclass.tistory.com/).
+  
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xoasml&title_color=EBFBFF&text_color=1E90FF&bg_color=282828&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
