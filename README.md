@@ -1,7 +1,5 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxoasml&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-
+![JAVA](https://img.shields.io/badge/-JAVA-007396?logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxoasml&count_bg=1E90FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xoasml&title_color=EBFBFF&text_color=1E90FF&bg_color=282828&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
