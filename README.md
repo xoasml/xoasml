@@ -1,12 +1,7 @@
-[![BLOG_LINK](https://img.shields.io/badge/🏠-BLOG_LINK-blue)](https://staticclass.tistory.com/)    
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xoasml&title_color=282828&text_color=1E90FF&bg_color=white&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoasml&layout=compact&custom_title=MyLangs)](https://github.com/anuraghazra/github-readme-stats)
+# System.out.println("HELLO WORLD!")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoasml&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) 🧛‍♀️👨‍🚀🧟‍♂️🧙‍♂️🦹‍♂️️🕵️‍♀️🦸‍♂️
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xoasml&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)  
 
-<!--
-[^1]:[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xoasml&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[^1]:[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxoasml&count_bg=1E90FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
--->
 
 
 <!--
