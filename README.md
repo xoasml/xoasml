@@ -1,10 +1,10 @@
 
 # System.out.println("HELLO WORLD!!")
-### ️🦸‍♂️🧛‍♀️👨‍🚀🧟‍♂️🧙‍🦹️‍♂🤹️️🕵️‍💂‍♂️👨‍💻👨‍🚒👨‍🌾👨‍🍳👨‍🏫👨‍🎓👨‍⚖️👨‍🔧👨‍🏭👨‍💼🤵👮‍♂️👨‍🎨️
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoasml&layout=compact&bg_color=0D1117&text_color=8b949e&hide_title=true&hide_border=true&langs_count=10&card_width=444)](https://github.com/anuraghazra/github-readme-stats) 
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xoasml&&bg_color=0D1117&text_color=8b949e&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoasml&layout=compact&bg_color=0D1117&text_color=8b949e&hide_title=true&hide_border=true&langs_count=10&card_width=444)](https://github.com/anuraghazra/github-readme-stats) 
+### ️🦸‍♂️🧛‍♀️👨‍🚀🧟‍♂️🧙‍🦹️‍♂🤹️️🕵️‍💂‍♂️👨‍💻👨‍🚒👨‍🌾👨‍🍳👨‍🏫👨‍🎓👨‍⚖️👨‍🔧👨‍🏭👨‍💼🤵👮‍♂️👨‍🎨️
 
 <!--
 **xoasml/xoasml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
